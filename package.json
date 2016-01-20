@@ -1,0 +1,11 @@
+{
+  "name": "myip",
+  "version": "0.0.1",
+  "description": "return the requestor's IP",
+  "dependencies": {},
+  "devDependencies": {},
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  }
+}
